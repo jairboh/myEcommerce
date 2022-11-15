@@ -7,11 +7,13 @@ Pantalla principal:
 
 
 Carrito de compras:
-![image](https://user-images.githubusercontent.com/111624631/202043894-36d82e78-7ec2-4e90-8583-cf2ffadfaba3.png)
+![image](https://user-images.githubusercontent.com/111624631/202044492-b0483eb9-9add-4df2-a42a-2eddaa8a94a2.png)
+
 
 Busqueda categoria:
-![image](https://user-images.githubusercontent.com/111624631/202043930-f4e9a62f-63a9-4e54-a610-ae98ac3a2a90.png)
+![image](https://user-images.githubusercontent.com/111624631/202044526-aa898f12-3f3c-4bf7-8db5-7d85d2803562.png)
+
 
 Busqueda texto:
-![image](https://user-images.githubusercontent.com/111624631/202043965-72ac7b3d-ce24-41f3-80b8-c9ba86cb988f.png)
+![image](https://user-images.githubusercontent.com/111624631/202044541-77ac1511-2338-432c-97f1-db5602ce637d.png)
 
